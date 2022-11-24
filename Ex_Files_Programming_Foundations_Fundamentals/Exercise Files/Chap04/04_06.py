@@ -1,8 +1,4 @@
-guess = input("What's my favorite food? ")
-
-if guess == "cookies":
-    print("Yep! So amazing!")
-else:
-    print("Yuck! That’s not it!")
-
-print("Thanks for playing!")
+number = 10
+if number % 4 == 0:
+  print(number, "is divisible by 4")
+print("All done")
