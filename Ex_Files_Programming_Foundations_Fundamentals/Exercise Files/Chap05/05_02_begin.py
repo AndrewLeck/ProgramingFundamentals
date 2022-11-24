@@ -1,5 +1,5 @@
 def say_hello():
-    print("Hello, friends!")
+    print("Hello, Friends!")
 
 say_hello()
 say_hello()
