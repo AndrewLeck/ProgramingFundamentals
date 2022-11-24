@@ -7,3 +7,5 @@ print("Hello world")
 # semantic error
 name = "Alice"
 print("Hello name")
+
+5 * 2 + 1
